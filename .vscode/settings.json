@@ -1,30 +1,28 @@
 {
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            150
-        ],
-        "editor.selectionHighlight": false,
-        "editor.suggest.snippetsPreventQuickSuggestions": true,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "off",
-        "editor.wordBasedSuggestions": false,
-        "editor.wordWrapColumn": 80,
-        "editor.wordWrap": "wordWrapColumn",
-    },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [150],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "off",
+    "editor.wordBasedSuggestions": "off",
     "editor.wordWrapColumn": 80,
-    "editor.wordWrap": "wordWrapColumn",
-    "dart.lineLength": 80,
-    "cSpell.words": [
-        "Abdulaziz",
-        "Alnahhas",
-        "darshanjain",
-        "Gnavo",
-        "LTWH",
-        "Pharès",
-        "thfr",
-        "vals",
-        "Yehia"
-    ]
+    "editor.wordWrap": "wordWrapColumn"
+  },
+  "editor.wordWrapColumn": 80,
+  "editor.wordWrap": "wordWrapColumn",
+  "dart.lineLength": 80,
+  "cSpell.words": [
+    "Abdulaziz",
+    "Alnahhas",
+    "darshanjain",
+    "Gnavo",
+    "LTWH",
+    "Pharès",
+    "thfr",
+    "vals",
+    "Yehia"
+  ]
 }
